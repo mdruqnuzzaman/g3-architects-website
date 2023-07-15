@@ -117,4 +117,18 @@ main{
 /* teams style */
 .team-container{
   display: flex;
+  align-items: center;
 }
+.teams-image-container{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr );
+  gap: 1.5rem;
+}
+
+.team-content{
+  padding-left: 70px;
+  padding-right: 70px;
+
+
+}
+
