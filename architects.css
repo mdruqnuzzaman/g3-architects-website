@@ -42,3 +42,16 @@ nav li a {
   text-decoration: none;
   color: #424242;
 }
+
+/* banner-styles */
+.banner-content{
+  max-width: 800px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+.banner-title{
+  font-size: 4rem;
+  
+}
